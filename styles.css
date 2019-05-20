@@ -1,0 +1,41 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.imput {
+    display: flex;
+}
+
+.storename {
+    display: flex;
+    justify-content: center;
+
+}
+
+.heading {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+body {
+    background-image: url('https://goboiano.com/wp-content/uploads/2017/02/Love-Lab.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    background-position: top;
+    background-size: 100%;
+    font-family: 'Pinyon Script', cursive;
+}
+
+html {
+    cursor: url('https://p.memecdn.com/avatars/s_266409_506f76ea0aef3.png'), auto;
+}
